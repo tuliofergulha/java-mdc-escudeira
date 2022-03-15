@@ -9,6 +9,5 @@ E dessa forma surgiu o Java, capaz de rodar em diversos sistemas operacionas e d
 </br> - Multiplataforma
 </br> - Segurança
 </br> - Otimizações
-</br> - Segurança
 </br> - Gerenciamento de Memória</br>
 O Java se popularizou ao longo dos anos do lado server-side das aplicações, e mais do que uma linguagem, o enfoque está em todo o ecossitema Java. A máquina virtual atraí a atenção das empresas pois ela não depende do se encontra abaixo de sua stack ou pilha de tecnologia, além de uma enorme variedade de bibliotecas.
