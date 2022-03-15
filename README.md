@@ -1,4 +1,4 @@
-# ☕ Mestre dos códigos - Desafio Java - Nível escudeiro
+# ☕ Mestre dos Códigos - Desafio Java - Nível Escudeiro
 
 Este repositóio contém os desafios [JAVA - Escudeiro](https://db1group.github.io/mestre-dos-codigos/#/java) criados pela DB1 a fim de proporcionar evolução na carreira dos colaboradores.
 </br>
