@@ -12,10 +12,10 @@ Este repositóio contém os desafios [JAVA - Escudeiro](https://db1group.github.
 
 # O básico Java
 
-* [Desafio 1]() ✔️
-* [Desafio 2]() ❌
-* [Desafio 3]() ❌
-* [Desafio 4]() ❌
+* [Desafio 1](https://github.com/tuliofergulha/java-mdc-escudeiro/blob/main/o-basico-java/desafio-1.md) ✔️
+* [Desafio 2](https://github.com/tuliofergulha/java-mdc-escudeiro/blob/main/o-basico-java/desafio-2.md) ❌
+* [Desafio 3](https://github.com/tuliofergulha/java-mdc-escudeiro/blob/main/o-basico-java/desafio-3.md) ❌
+* [Desafio 4](https://github.com/tuliofergulha/java-mdc-escudeiro/blob/main/o-basico-java/desafio-4.md) ❌
 
 # Conhecendo a plataforma
 
