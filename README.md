@@ -41,4 +41,4 @@ Este repositóio contém os desafios [JAVA - Escudeiro](https://db1group.github.
 
 
 # Escudeiro
-* Túlio Cardoso Fergulha <tulio.fergulha@db1.com.br> 
+* Túlio Cardoso Fergulha - <tulio.fergulha@db1.com.br>
