@@ -5,7 +5,7 @@
 Visando resolver esse problema **James Gosling** e sua equipe pensaram em criar um único código que gerasse um "executável", que após sua compilação ele não estaria compreensível por um aparelho apenas, mas sim por um intermediário, um processador ou placa de hardware, que esse sim, por sua vez, entenderia o código.</br>
 Apesar de parecer uma ótima ideia, a princípio a ideia acabou fracassando devido ao alto custo para produzir "chips" distintos para cada aparelho.</br>
 Em meados de 95, com a ascensão da internet, **Gosling** resgatou a ideia de criar um único código fonte para suas aplicações, que seria lido e interpretado não por chips e hardwares, mas sim por um outro intermediário, a Máquina Virtual Java (**JVM**), que quando compilado não gerar um ".exe", mas sim um formato bytecode Java, de extensão ".class", lido pela JVM, que passaria a informação para os sistemas operacionais.</br>
-E dessa forma surgiu o Java, capaz de rodar em diversos sistemas operacionas e dispositivos, e a JVM com suas principais características:</br>
+E dessa forma surgiu o Java, capaz de rodar em diversos sistemas operacionas e dispositivos, e a JVM com suas principais características:
 </br> - Multiplataforma
 </br> - Segurança
 </br> - Otimizações
