@@ -16,7 +16,7 @@ public class OutOfMemoryErrorRevision {
          * mitigar os riscos.
          */
 
-        // Linha 22 com a correção uma possível correção ao exemplo anterior
+        // Linha 22 com uma possível correção ao exemplo anterior
         while (i <= 10) {
             byte[] b = new byte[1048576];
             leakList.add(b);
