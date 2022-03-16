@@ -6,4 +6,4 @@ Não é necessário que o programador "marque" objetos a serem excluídos, a imp
 Cada JVM pode implementar da forma que julgar necessário, o único requisito é que atenda as especificações. Como exemplo, o HotSpot da Oracle é um dos mais utilizados.
 
 * [Exemplo 1 - Possível erro de OutOfMemoryError](https://github.com/tuliofergulha/java-mdc-escudeiro/blob/main/o-basico-java/desafio-4/OutOfMemoryError.java)
-* [Exemplo 2 - Cuidados tomados para evitar o problema]()
+* [Exemplo 2 - Cuidados tomados para evitar o problema](https://github.com/tuliofergulha/java-mdc-escudeiro/blob/main/o-basico-java/desafio-4/OutOfMemoryErrorRevision.java)
