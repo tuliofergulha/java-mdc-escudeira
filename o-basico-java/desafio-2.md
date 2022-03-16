@@ -1,5 +1,5 @@
 # Desafio 2
-**Questão**: No mundo Java existe uma sopa de letrinhas e siglas, mas algumas são fundamentais para o entendimento do propósito da linguagem. Vamos, então, aprender um pouco mais sobre a plataforma. Pesquise sobre e pontue o que cada palavra significa, onde e quando usamos e qual a importância de cada uma delas:
+**Questão**: *No mundo Java existe uma sopa de letrinhas e siglas, mas algumas são fundamentais para o entendimento do propósito da linguagem. Vamos, então, aprender um pouco mais sobre a plataforma. Pesquise sobre e pontue o que cada palavra significa, onde e quando usamos e qual a importância de cada uma delas:*
 
 * **JVM**: Java Virtual Machine (máquina virtual do Java) é responsável por executar o bytecode (.class). Pode-se consideram a JVM o coração do Java, pois ela é a responsável por por fornecer a capacidade de multi-plataforma. Após instalada em qualquer sistema operacional (Windows, Linux, Mac, etc), a mesma é capaz de interpretar qualquer programa compilado em bytecode.</br>
 Isso significa que você não precisa necessariamente programar em Java para executar um programa na JVM, qualquer linguagem que gera arquivos bytecode, podem ser executadas pela JVM.
