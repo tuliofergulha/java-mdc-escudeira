@@ -20,7 +20,7 @@ Este repositóio contém os desafios [JAVA - Escudeiro](https://db1group.github.
 # Conhecendo a plataforma
 
 ### Trabalhando com tipos de dados
-* [Desafio 1]() ❌
+* [Desafio 1](https://github.com/tuliofergulha/java-mdc-escudeiro/blob/main/conhecendo-a-plataforma/desafio-1/desafio-1.md) ✔️
 * [Desafio 2]() ❌
 * [Desafio 3]() ❌
 * [Desafio 4]() ❌
