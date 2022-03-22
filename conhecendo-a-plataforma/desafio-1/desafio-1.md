@@ -1,5 +1,5 @@
 # Conhecendo a Plataforma - Desafio 1
-****Questão**: O Java possui vários tipos de dados primitivos para resolvermos diversos problemas e, para cada tipo primitivo, existe uma classe WRAPPER. Pontue:*
+***Questão**: O Java possui vários tipos de dados primitivos para resolvermos diversos problemas e, para cada tipo primitivo, existe uma classe WRAPPER. Pontue:*
 * **Diferença entre os tipos primitivos e as classes Wrapper**:
 
 * **Quais são os tipos primitivos e suas classes Wrapper**: 
