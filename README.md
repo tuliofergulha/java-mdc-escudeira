@@ -3,7 +3,7 @@
 Este repositóio contém os desafios [JAVA - Escudeiro](https://db1group.github.io/mestre-dos-codigos/#/java) criados pela DB1 a fim de proporcionar evolução na carreira dos colaboradores.
 </br>
 </br>
-☝ Todas os desafios estão dentro desse repositório, basta utilizar os links abaixo para navegar entre as respostas.
+🏆 Todas os desafios estão dentro desse repositório, basta utilizar os links abaixo para navegar entre as respostas.
 </br>
 ✔️ Missão completada
 </br>
