@@ -7,7 +7,7 @@ Este repositóio contém os desafios [JAVA - Escudeiro](https://db1group.github.
 </br>
 ✔️ Missão completada
 </br>
-❌ Na fila para execução
+⏳ Na fila para execução
 </br>
 
 # O básico Java
@@ -22,28 +22,28 @@ Este repositóio contém os desafios [JAVA - Escudeiro](https://db1group.github.
 ### Trabalhando com tipos de dados
 * [Desafio 1](https://github.com/tuliofergulha/java-mdc-escudeiro/blob/main/conhecendo-a-plataforma/desafio-1/desafio-1.md) ✔️
 * [Desafio 2](https://github.com/tuliofergulha/java-mdc-escudeiro/blob/main/conhecendo-a-plataforma/desafio-2/desafio-2.md) ✔️
-* [Desafio 3]() ❌
-* [Desafio 4]() ❌
-* [Desafio 5]() ❌
-* [Desafio 6]() ❌
+* [Desafio 3]() ⏳
+* [Desafio 4]() ⏳
+* [Desafio 5]() ⏳
+* [Desafio 6]() ⏳
 
 ### Trabalhando com laços de repetição
-* [Desafio 7]() ❌
+* [Desafio 7]() ⏳
 
 ### Trabalhando com estrutura de dados
-* [Desafio 8]() ❌
-* [Desafio 9]() ❌
+* [Desafio 8]() ⏳
+* [Desafio 9]() ⏳
 
 ### Trabalhando com POO (Programação Orientada a Objetos)
-* [Desafio 10]() ❌
-* [Desafio 11]() ❌
-* [Desafio 12]() ❌
+* [Desafio 10]() ⏳
+* [Desafio 11]() ⏳
+* [Desafio 12]() ⏳
 
 ### Trabalhando com qualidade de código
-* [Desafio 13]() ❌
+* [Desafio 13]() ⏳
 
 # Vamos praticar
-* [Desafio 1]() ❌
+* [Desafio 1]() ⏳
 
 
 # 🔰 Escudeiro 
