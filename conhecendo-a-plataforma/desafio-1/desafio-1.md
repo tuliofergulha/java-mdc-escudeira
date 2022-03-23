@@ -46,3 +46,4 @@
     • short   h = new Short("2");<br/>
 
 * **Um exemplo de utilização de cada tipo durante o desenvolvimento de software**:
+[Clique aqui para ver os exemplos](https://github.com/tuliofergulha/java-mdc-escudeiro/blob/main/conhecendo-a-plataforma/desafio-1/WrapperExample.java)
